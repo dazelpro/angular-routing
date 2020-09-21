@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "belajar-angular"
+    }
+  },
+  "defaultProject": "belajar-angular",
+  "cli": {
+    "analytics": "4a7fd8ab-91d7-4275-a7fe-7c40532f5e8b"
+  }
 }
